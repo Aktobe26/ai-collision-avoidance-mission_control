@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+venv311/
+
+# macOS
+.DS_Store
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# App bundles
+*.app
+
+# Machine learning models
+*.pkl
+
+# Large binaries
+*.dylib
+*.so
+*.framework

@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+sgp4
+poliastro
+astropy
+scikit-learn
+fastapi
+uvicorn
+streamlit
+matplotlib
+vispy
+PySide6
+joblib
+requests
